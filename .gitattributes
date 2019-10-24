@@ -1,2 +1,2 @@
 #This file is only used to change the language of the repository and has no more meaning.
-*.html linguist-language=php
+*.html linguist-language=python
